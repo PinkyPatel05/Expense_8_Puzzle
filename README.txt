@@ -1,5 +1,4 @@
-UTA_ID:1002251887
-Name: Pinky Patel
+Artificial Intellegent Project:
 
 Programming language Used:Python 3.x
 
@@ -129,4 +128,5 @@ File Directory Structure
 │── README.txt              # Detailed documentation file 
 
 Conclusion
-The expense_8_puzzle.py provides a optimal solution to solving the 8-puzzle problem using different search techniques. The optional trace file feature allows detailed search process analysis, making it a useful tool for understanding and evaluating all search algorithms.
+The expense_8_puzzle.py provides a optimal solution to solving the 8-puzzle problem using different search techniques. The optional trace file feature allows detailed search process analysis, making it a useful tool for understanding and evaluating all search algorithms.
+
